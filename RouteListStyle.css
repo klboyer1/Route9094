@@ -1,0 +1,76 @@
+/* 
+    Created on : Dec 12, 2018, 10:03:35 PM
+    Author     : klboy
+*/
+body {
+    background-color:  black;
+    
+}
+.DScolor {
+    background-color:  green;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 90px;
+}
+.WEcolor {
+    background-color:  yellow;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 90px;
+}
+.WScolor {
+    background-color:  orange;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 90px;
+}
+.SOcolor {
+    background-color:  blue;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 90px;
+}
+.MFcolor {
+    background-color:  purple;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 90px;
+}
+.PAcolor {
+    background-color:  lightblue;
+    font-size: 60px;
+}
+.C4color {
+    background-color:  green;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 90px;
+}
+.TVG {
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    border: 15px solid red;
+}
+.NoTVG {
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    border: 15px solid Black;   
+}
+.insertform {
+
+    font-size: 2em;
+    color: white;
+}
+.mainmenu {
+    color: white;
+    font-size: 2em;
+}
+.footer {
+    color: black;
+    font-size: 12pt;
+}
+.header {
+    padding: 5;
+}
